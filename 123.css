@@ -3,6 +3,7 @@ body {
 }
 
 #btn {
+  height:auto;
   width:70%;
   margin:0 auto;
   display:flex;
